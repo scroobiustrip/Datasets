@@ -1,4 +1,4 @@
-date,group,product,sales
+date,location,product,sales
 2018-01-01,AU,retail,5101
 2018-01-01,CA,camping,9375
 2018-01-01,AU,hobbies,10230
