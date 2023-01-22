@@ -1,58 +1,32 @@
-"-------------------------------------------------------------------------------------------"
-"  Atmospheric CO2 record based on ice core data before 1958,                               "
-"  (Ethridge et. al., 1996; MacFarling Meure et al., 2006) and                              "
-"  yearly averages of direct observations from Mauna Loa and the South Pole after and       "
-"  including 1958 (from Scripps CO2 Program).                                               "
-"                                                                                           "
-"  in situ data is based on simple average of Mauna Loa and South Pole from values on Jan 1 "
-"                                                                                           "   
-"  For Mauna Loa Observatory, Hawaii: Latitude 19.5°N Longitude 155.6°W Elevation 3397m     "
-"  For South Pole: Latitude 90.0°S Elevation 2810m                                          "
-"                                                                                           "
-"   Scripps CO2 Source: R. F. Keeling, S. C. Piper, A. F. Bollenbacher and S. J. Walker     "
-"   Scripps CO2 Program ( http://scrippsco2.ucsd.edu )                                      "
-"   Scripps Institution of Oceanography (SIO)                                               "
-"   University of California                                                                "
-"   La Jolla, California USA 92093-0244                                                     "
-"                                                                                           "
-"   Status of Scripps CO2 data and correspondence:                                          "
-"                                                                                           "
-"   These data are subject to revision based on recalibration of standard gases. Questions  "
-"   about the data should be directed to Dr. Ralph Keeling (rkeeling@ucsd.edu) and          "
-"   and Dr. Stephen Piper (scpiper@popmail.ucsd.edu), Scripps CO2 Program.                  "
-"                                                                                           "
-"                                                                                           "
-"-------------------------------------------------------------------------------------------"
-"                                                                                           "
-Sample date (year), CO2 (ppm)
-  13.3, 276.750
-  29.5, 277.880
-  56.0, 277.380
- 104.5, 277.510
- 136.0, 278.130
- 168.2, 280.050
- 202.5, 280.720
- 227.9, 281.490
- 274.2, 280.130
- 302.3, 279.830
- 329.2, 278.920
- 364.6, 277.050
- 428.4, 276.910
- 461.2, 276.720
- 499.8, 276.360
- 536.7, 276.000
- 572.0, 277.560
- 595.6, 276.900
- 632.0, 278.250
- 667.9, 279.390
- 698.4, 279.700
- 729.7, 278.530
- 764.5, 278.530
- 799.2, 278.550
- 857.3, 279.340
- 897.4, 278.910
- 944.2, 279.120
- 968.2, 278.460
+Year, CO2
+13.3, 276.750
+29.5, 277.880
+56.0, 277.380
+104.5, 277.510
+136.0, 278.130
+168.2, 280.050
+202.5, 280.720
+227.9, 281.490
+274.2, 280.130
+302.3, 279.830
+329.2, 278.920
+364.6, 277.050
+428.4, 276.910
+461.2, 276.720
+499.8, 276.360
+536.7, 276.000
+572.0, 277.560
+595.6, 276.900
+632.0, 278.250
+667.9, 279.390
+698.4, 279.700
+729.7, 278.530
+764.5, 278.530
+799.2, 278.550
+857.3, 279.340
+897.4, 278.910
+944.2, 279.120
+968.2, 278.460
 1005.0, 280.500
 1025.2, 280.830
 1058.0, 282.760
